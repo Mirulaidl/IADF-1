@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6 {
               </h3>
               <!-- <div class="mb-1 text-muted">Nov 12</div> -->
               <p class="card-text">I'm a web developer passionate about technology, focused on creating user-friendly websites and continuously improving my skills.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">About Me</a></p>
+              <p><a class="btn btn-lg btn-primary" href="/about" role="button">About Me</a></p>
             </div>
             <img class="card-img-right flex-auto d-none d-md-block" src="../../images/sky.jpg" alt="Card image cap" style="width: 250px; height: 240px">
           </div>
@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
               </h3>
               <!-- <div class="mb-1 text-muted">Nov 11</div> -->
               <p class="card-text">Got questions or want to connect? Reach out via the contact form, and I’ll get back to you soon!</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Contact Us</a></p>
+              <p><a class="btn btn-lg btn-primary" href="/contact" role="button">Contact Us</a></p>
             </div>
             <img class="card-img-right flex-auto d-none d-md-block" src="../../images/sunset.jpg" alt="Card image cap" style="width: 250px; height: 240px">
           </div>
