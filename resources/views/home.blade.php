@@ -29,7 +29,7 @@ h1, h2, h3, h4, h5, h6 {
                 <p style="text-decoration: underline;">About Me</p>
               </h3>
               <!-- <div class="mb-1 text-muted">Nov 12</div> -->
-              <p class="card-text">I'm a web developer passionate about technology, focused on creating user-friendly websites and continuously improving my skills.</p>
+              <p class="card-text">We are Computer Science Graduated passionate about technology, focused on creating user-friendly websites and continuously improving my skills.</p>
               <p><a class="btn btn-lg btn-primary" href="/about" role="button">About Me</a></p>
             </div>
             <img class="card-img-right flex-auto d-none d-md-block" src="../../images/sky.jpg" alt="Card image cap" style="width: 250px; height: 240px">
